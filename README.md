@@ -26,7 +26,7 @@ To run the application, first run the following command within your terminal of 
 This installs all of the relevant project dependencies for you. </br>
 
 Next, to run the application, simply use the following command within the project's main directory:
-`pip3 ./api.py`
+`python3 ./api.py`
 This will run the API at the url `http://127.0.0.1:5000/`
 
 ## Sending Simple Requests
