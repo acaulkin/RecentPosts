@@ -3,6 +3,8 @@ Using Python, collect and store the most recent 100 articles from TechCrunch int
 
 Given the time limits, please start with collecting all of the articles before saving them into the data store. Please draw a diagram of the structure and fields used in the data store.
 
+# Time Taken
+It took me about 2 hours and 40 minutes to complete the coding, and an extra 20 minutes to write this documentation.
 
 # How I Did It
 I did it in a unique way that I feel encapsulates some of the stuff I know how to do with Python in a time-crunch situation.
