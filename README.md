@@ -1,7 +1,5 @@
 # Project Description 
-Using Python, collect and store the most recent 100 articles from TechCrunch into a data store of your choice. For each article, store the author, date published, title, url, article text, and other data you think is important. Do not collect duplicate articles. Do not hit the Techcrunch website too fast. Include at least one unit test. 
-
-Given the time limits, please start with collecting all of the articles before saving them into the data store. Please draw a diagram of the structure and fields used in the data store.
+This is an API that returns the 100 most recent posts from the wall street journal and stores them within a SQLLite database.
 
 # Time Taken
 It took me about 2 hours and 40 minutes to complete the coding, and an extra 20 minutes to write this documentation.
