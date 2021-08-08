@@ -1,5 +1,5 @@
 # Project Description 
-This is an API that returns the 100 most recent posts from the wall street journal and stores them within a SQLLite database.
+This is an API that returns the 100 most recent posts from TechCrunch and stores them within a SQLLite database.
 
 # Time Taken
 It took me about 2 hours and 40 minutes to complete the coding, and an extra 20 minutes to write this documentation.
